@@ -1,0 +1,33 @@
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.AssemblyReference.cache
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.pdb
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.pdb
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.pdb
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CopyComplete
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CopyComplete
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.BLL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.BOL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\bin\Debug\FitnessApp.DAL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.AssemblyReference.cache
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CoreCompileInputs.cache
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.csproj.CopyComplete
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BLL\obj\Debug\FitnessApp.BLL.pdb

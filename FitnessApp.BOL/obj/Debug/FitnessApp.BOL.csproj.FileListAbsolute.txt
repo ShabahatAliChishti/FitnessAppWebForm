@@ -1,0 +1,18 @@
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.AssemblyReference.cache
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.CoreCompileInputs.cache
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.pdb
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.dll
+C:\Users\cs-ro\Downloads\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.pdb
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.dll
+C:\Users\HP\Downloads\FitnessApp (1)\FitnessApp\FitnessApp\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\bin\Debug\FitnessApp.BOL.pdb
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.AssemblyReference.cache
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.csproj.CoreCompileInputs.cache
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.dll
+D:\FitnessApp (1)\FitnessApp (1)\FitnessApp.BOL\obj\Debug\FitnessApp.BOL.pdb
